@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crashDeltaGbg
 - 👀 I’m interested in a lot of things, of which coding is one. I also like playing and making music.
-- 🌱 I’m currently learning C++ development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C# and .NET development.
+- 💞️ I’m looking to collaborate on pretty much anything.
 - 📫 How to reach me: rickard@yxelflod.se
 
 <!---
